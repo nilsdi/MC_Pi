@@ -1,1 +1,1 @@
-matplotlib, scipy.stats, tqdm
+matplotlib==3.4.1
